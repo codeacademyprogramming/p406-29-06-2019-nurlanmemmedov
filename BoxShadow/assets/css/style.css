@@ -1,0 +1,20 @@
+.wrapper {
+  width: 1100px;
+  margin: 0 auto;
+}
+
+.items-list {
+  margin: 50px 0;
+}
+
+.shadowed-element {
+  height: 250px;
+  width: 20%;
+  border-radius: 15px;
+  cursor: pointer;
+  transition: .3s ease-in;
+}
+
+.shadowed-element:hover {
+  box-shadow: 0 0 44px -14px #4d4d4d;
+}
