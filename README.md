@@ -1,6 +1,6 @@
 # P406-29.06.2019
 
-* Bootstrap 
+# Bootstrap 
 - https://getbootstrap.com/
 - https://fezvrasta.github.io/bootstrap-material-design/
 - https://www.sitepoint.com/why-i-love-bootstrap-you-should/
@@ -9,11 +9,11 @@
 - https://borealis.agency/stopped-using-bootstrap/255
 
 
-* Homework
+# Homework
 
 - https://colorlib.com/preview/#deejee
 
 Requirements:
-[] - All hover effects must be included
-[] - Use bootstrap grid
-[] - Must be responsive
+- [] All hover effects must be included
+- [] Use bootstrap grid
+- [] Must be responsive
